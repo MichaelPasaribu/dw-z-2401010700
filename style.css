@@ -34,11 +34,11 @@ body{
 .navbar .navbar-logo{
     font-size: 2rem;
     font-weight: 600;
-    color: #ffc0c0;
+    color: #0ffcbe;
 }
 
 .navbar .navbar-logo span{
-    color: rgba(76, 120, 241, 0.747) ;
+    color: #ffcc00;
 }
 
 .navbar .navbar-nav a {
@@ -132,8 +132,8 @@ body{
 
 .hero .content h1{
     font-size: 4.5em;
-    color: #fff;
-    text-shadow: 1px 1px 3px rgba(1, 1,3, 0.5);
+    color: #ffffff;
+    text-shadow: 1px 1px 3px rgba(1, 1, 3, 0.5);
     line-height: 1.3;
 }
 
@@ -142,13 +142,13 @@ body{
 }
 
 .hero .content p {
-    font-size: 1.3rem;
+    font-size: 1.4rem;
     margin-top: 0.8rem;
     line-height: 1.3;
     font-weight: 100;
-    text-shadow: 1px 1px 4px rgba(1, 1, 0.5);
+    text-shadow: 1px 1px 3cap rgba(1, 1, 3, 0.5);
     /* mix-blend-mode: difference; */
-    color: rgb(255, 255, 255);
+    color: #846c98;
 }
 
 .about, .contact{
@@ -217,7 +217,6 @@ body{
     background-color: #970f0f;
     border: 1px solid #ffffff;
     padding-left: 4rem;
-    
 }
 
 .contact .row form .input-group input{
@@ -251,7 +250,7 @@ footer .socials {
 
 footer .socials a{
     color: #ffffff;
-    margin: 1.2rem 1.3rem;
+    margin: 1rem 1.3rem;
 }
 
 footer .socials a:hover,footer .links a:hover{
@@ -273,5 +272,5 @@ footer .credit{
 
 footer .credit a{
     color: #000;
-    font-weight: 700;
+    font-weight: 800;
 }
