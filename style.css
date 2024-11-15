@@ -109,7 +109,7 @@ body{
     min-height: 100vh;
     display: flex;
     align-items: center;
-    background-image: url('freepik__candid-image-photography-natural-textures-highly-r__58198 (1).jpeg');
+    background-image: url('../freepik__candid-image-photography-natural-textures-highly-r__58198 (1).jpeg');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -182,10 +182,12 @@ body{
 
 .about .row{
     display: flex;
+    padding: 1rem;
 }
 
 .about .row .about-img{
     flex: 2 2 4rem;
+    padding: 1.5rem;
 }
 
 .about .row .about-img img{
