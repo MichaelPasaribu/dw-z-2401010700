@@ -109,7 +109,7 @@ body{
     min-height: 100vh;
     display: flex;
     align-items: center;
-    background-image: url('../fotohero.jpeg');
+    background-image: url('../image/fotohero.jpeg');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
